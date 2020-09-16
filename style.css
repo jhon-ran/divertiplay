@@ -10,6 +10,39 @@
    }
 
 
-   .card-group > .card-header{
-    display: table-caption;
+
+  /*Letras de jumbotron*/
+  #D {
+    color:red;
   }
+  #i1 {
+    color:yellow;
+  }
+  #v {
+    color: green;
+  }
+  #e {
+    color: purple;
+  }
+  #r {
+    color: yellow;
+  }
+  #t {
+    color: orangered;
+  }
+  #i2 {
+    color: blue;
+  }
+  #p {
+    color: red;
+  }
+  #l{
+    color: blue;
+  }
+  #a {
+    color: green;
+  }
+  #y {
+    color: purple;
+  }
+  /*Letras de jumbotron*/
