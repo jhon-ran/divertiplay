@@ -8,3 +8,8 @@
   color:black;
   text-align: center;
    }
+
+
+   .card-group > .card-header{
+    display: table-caption;
+  }
