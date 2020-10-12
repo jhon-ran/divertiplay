@@ -101,8 +101,8 @@
       top: -36px !important
   }
 
-  /*Titulo de testimonios*/
-  .testimonios {
-    text-align: center;
-    margin-top: 20px;
+
+/*Testimonios y clientes borders*/
+#noborder {
+  border: none;
 }
