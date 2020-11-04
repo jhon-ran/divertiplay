@@ -112,3 +112,10 @@
   height: auto;
   margin-bottom: 50px;
 }
+
+/*Active tab on navbar*/
+.currenttab {
+  background-color:lightblue;
+  border-radius: 25px;
+  padding: 10px 10px;
+}
