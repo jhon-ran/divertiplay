@@ -119,3 +119,10 @@
   border-radius: 10px;
   padding: 5px 10px;
 }
+
+/* Nav hover */
+.nav-link:hover {
+  background-color: rgba(173, 216, 230, 0.5);
+  border-radius: 10px;
+  padding: 5px 10px;
+}
