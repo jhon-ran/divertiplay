@@ -110,7 +110,9 @@
 .responsive-img {
   max-width: 100%;
   height: auto;
-  margin-bottom: 50px;
+  display: block;
+  margin: 0 auto 50px auto;
+
 }
 
 /*Active tab on navbar*/
