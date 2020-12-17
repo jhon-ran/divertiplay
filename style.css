@@ -126,3 +126,8 @@
   border-radius: 10px;
   padding: 5px 10px;
 }
+
+/* Scale on hover for cards*/
+.card:hover{
+  transform: scale(1.05);
+}
